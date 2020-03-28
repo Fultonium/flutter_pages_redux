@@ -1,5 +1,5 @@
 library flutter_pages_redux;
 
-import 'src/page_actions.dart';
-import 'src/page_middleware.dart';
-import 'src/pages.dart';
+export 'src/page_actions.dart';
+export 'src/page_middleware.dart';
+export 'src/pages.dart';
