@@ -1,6 +1,6 @@
 name: flutter_pages_redux
 description: Redux components to navigate flutter pages from within redux middleware.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Fultonium/flutter_pages_redux
 
 environment:
